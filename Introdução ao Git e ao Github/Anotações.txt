@@ -1,0 +1,6 @@
+# About Git/Github:
+
+- Comandos importantes: git init; git add .; git status; git commit -m "message"; git push origin main; s -a; ctrl + L;
+- Git é um sistema distribuído e seguro: pode estar em diversas máquinas ao mesmo tempo e atualizado e seguro (devido ao SHA1 - Segure Hash Algorithm);
+- Github é um repositório remoto;
+- Conflito de merge: quando o código do repositório remoto é diferente do local (git pull origin -> abrir o arquivo -> aceitar modificações -> comitar o arquivo desejado (git push origin master/main)
