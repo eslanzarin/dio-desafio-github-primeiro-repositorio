@@ -1,0 +1,40 @@
+IMPULSO - BOOTCAMP
+
+PENSAMENTO COMPUTACIONAL:
+- apresentação da resolução de um problema a partir de um passo a passo -> estruturação;
+- habilidade de formulação e resolução de problemas;
+- utilizar em qualquer área do conhecimento;
+- decomposição: dividir um problema complexo em subproblemas; (ex: quebra-cabeças)
+	- análise -> síntese
+	- ordem de execução: sequencial (dependência) ou paralelo (concomitantemente)
+	- desenvolver a decomposição by yourself (maneiras distintas de decompor um msm problema)
+	- identificar -> agregar dados -> funcionalidade
+- reconhecimento de padrões: identificar padrões ou tendências/similaridades ou diferenças
+entre os problemas
+	- inerente ao ser humano
+	- modelo base, estrutura invariante, repetição
+	- reconhecer similaridades e diferenças (característica e classificação)
+	- no computador: representação / apresentação / armazenação de dados / regras de decisão
+- abstração: extrapolar o conceito do problema para uma forma generalista (fórmula)
+	- variáveis -> podem assumir qualquer valor
+	- generalização: definir categorias de um objeto p adicioná-lo a uma classe geral
+	- pontos essenciais: deixar os detalhes de lado (generalizar) p conseguir classificar
+	- representação
+	- estrutura de dados, linguagens de programação, etc
+	- comunicação: broadcast, síncrona, assíncrona, arquitetura paralela (dados -> cores -> processamento
+- design de algoritmos: automatizar (definir passo a passo p a resolução do problema)
+	- intruções detalhadas -> processamento, armazenamento e manipulação de dados
+	- step by step 
+	- entendido por humano e máquina
+	- análise -> algoritmo -> codificação
+	- construção de algoritmo: compreensão do problema, dados de entrada, processamento,
+dados de saída, método de construção, teste e diagnóstico
+	- antes de codificar: narrativa / fluxograma / pseudpcódigo
+- overview: processo contínuo/cíclico - análise -> teste -> refinamento (repeat)
+- habilidades humanas + recursos computacionais
+- habilidades complementares
+	- raciocínio lógico:
+	- pensamento estruturado
+	- indução, dedução e abdução
+	- aperfeiçoamento:
+	- solução eficiente, otimizar processos, simplificar linhas de code, funções bem definidas

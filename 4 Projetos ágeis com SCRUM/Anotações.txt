@@ -1,0 +1,11 @@
+GESTÃO DE PROJETOS:
+
+- tradicional(waterfall): o projeto só avança quando uma fase está completa
+- ágil: software construído em partes(iterativo) / dividir o projeto para entrega em um mês /
+equipe comprometida com objetivos / responder rapidamente a mudanças / foco no cliente
+	- equipes pequenas e multidisciplinares
+	- SCRUM: transparência, adaptação e inspeção
+	- pq usar? software entregue em partes menores; redução de incertezas; daily meeting;
+maior valor p negócio; usuários envolvidos; melhoria contínua
+	- *minimum viable product: software em uso, c melhorias a partir de feedback dos clientes
+	- time SCRUM: product owner / scrum master / development team (o dev não precisa ter 
